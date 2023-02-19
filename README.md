@@ -16,8 +16,26 @@
 As mobile application developer,a highly skilled developer who can build highly efficient mobile applications and can also work on application analysis.Cross-platform app building, Cloud database management and UX/UI design are my outstanding world and always put developing clean and extensible code.I will offer to you 100% satisfaction
 
 
-### Skills: Java / Flutter / ReactNative / Ionic / MERN
+### 🛠 &nbsp;Tech Stack
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
+![iOS](https://img.shields.io/badge/-iOS-05122A?style=flat&logo=iOS)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=macOS)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vegas-7&langs_count=8&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=FFA518)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Mongo DB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+  
+![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=vscode)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=androidstudio)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
 
 
