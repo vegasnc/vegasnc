@@ -5,7 +5,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=⋆⚛++𝒞𝓇♡𝓈𝓈-𝓅𝓁𝒶𝓉𝒻♡𝓇𝓂+𝒜𝓅𝓅+𝒟𝑒𝓋𝑒𝓁♡𝓅𝑒𝓇++⚛⋆;𝓒𝓵𝓸𝓾𝓭+𝓓𝓪𝓽𝓪𝓫𝓪𝓼𝓮+𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽,𝓤𝓧/𝓤𝓘+𝓭𝓮𝓼𝓲𝓰𝓷+𝓑𝓾𝓲𝓵𝓭𝓮𝓻;..++𝑀𝐸𝑅𝒩+𝒮𝓉𝒶𝒸𝓀+𝒟𝑒𝓋𝑒𝓁♡𝓅𝑒𝓇++..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=⋆⚛++𝒞𝓇♡𝓈𝓈-𝓅𝓁𝒶𝓉𝒻♡𝓇𝓂+𝒜𝓅𝓅+𝒟𝑒𝓋𝑒𝓁♡𝓅𝑒𝓇++⚛⋆;𝓒𝓵𝓸𝓾𝓭+𝓓𝓪𝓽𝓪𝓫𝓪𝓼𝓮+𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽;..++𝑀𝐸𝑅𝒩+𝒮𝓉𝒶𝒸𝓀+𝒟𝑒𝓋𝑒𝓁♡𝓅𝑒𝓇++..)](https://git.io/typing-svg)
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vegas-7&label=Profile%20views&color=0e75b6&style=flat" alt="vegas" /> </p>
