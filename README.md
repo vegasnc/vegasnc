@@ -5,14 +5,14 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=⋆⚛..++𝑀𝐸𝑅𝒩+𝒮𝓉𝒶𝒸𝓀+𝒟𝑒𝓋𝑒𝓁♡𝓅𝑒𝓇++..⚛⋆;𝓒𝓵𝓸𝓾𝓭+𝓓𝓪𝓽𝓪𝓫𝓪𝓼𝓮+𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽;++𝒞𝓇♡𝓈𝓈-𝓅𝓁𝒶𝓉𝒻♡𝓇𝓂+𝒜𝓅𝓅+𝒟𝑒𝓋𝑒𝓁♡𝓅𝑒𝓇++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=⋆⚛..++AI Engineer++..⚛⋆;MachineLearning+NLP;++𝒞𝓇♡𝓈𝓈-𝓅𝓁𝒶𝓉𝒻♡𝓇𝓂+𝒜𝓅𝓅+𝒟𝑒𝓋𝑒𝓁♡𝓅𝑒𝓇++)](https://git.io/typing-svg)
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vegas-7&label=Profile%20views&color=0e75b6&style=flat" alt="vegas" /> </p>
 
 <p><b>100% Satisfaction</b><p>
 
-As senior engineer,a highly skilled developer who can build highly efficient web&mobile applications and can also work on application analysis.Cross-platform app building, Cloud database management and UX/UI design are my outstanding world and always put developing clean and extensible code.I will offer to you 100% satisfaction
+As senior engineer,a highly skilled engineer who can build highly efficient AI-based applications and can also work on application analysis.AI-based app builing, ChatBot development, Cross-platform app building and UI/UX design are my outstanding worlds and always put developing clean and extensible code. I will offer to you 100% satisfaction
 <br>
 <br>
 ### 🛠 &nbsp;Tech Stack
