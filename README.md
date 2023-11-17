@@ -16,6 +16,9 @@ As senior engineer,a highly skilled engineer who can build highly efficient AI-b
 <br>
 <br>
 ### 🛠 &nbsp;Tech Stack
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-blue)&nbsp;
+![Langchain](https://img.shields.io/badge/-Langchain-green)&nbsp;
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
